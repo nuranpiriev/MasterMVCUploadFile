@@ -1,0 +1,65 @@
+﻿
+@model IEnumerable<Order>;
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Orders</h1>
+
+    <a asp-action="Create" asp-controller="Orders" asp-area="Admin">
+        <button class="btn btn-success mb-3">
+            Create
+        </button>
+    </a>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Surname</th>
+                            <th>Phone</th>
+                            <th>Email</th>
+                            <th>Number</th>
+                            <th>Problem</th>
+                            <th>ServiceId</th>
+                            <th>MasterId</th>
+                            <th>Info</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Order item in Model)
+                        {
+                            <tr>
+                                <td>@item.ClientName</td>
+                                <td>@item.ClientSurname</td>
+                                <td>@item.ClientPhoneNumber</td>
+                                <td>@item.ClientEmail</td>
+                                <td>@item.ClientPhoneNumber</td>
+                                <td>@item.Problem</td>
+                                <td>@item.ServiceId</td>
+                                <td>@item.MasterId</td>
+                                <td>
+                                    <a asp-controller="Orders" asp-action="Info" asp-area="Admin" asp-route-id="@item.Id">
+                                        <button class="btn btn-primary">
+                                            Info
+                                        </button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->

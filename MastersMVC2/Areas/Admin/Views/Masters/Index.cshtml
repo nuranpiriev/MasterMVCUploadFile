@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Master>;
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+
+    <a asp-action="Create" asp-controller="Masters" asp-area="Admin">
+        <button class="btn btn-success mb-3">
+            Create
+        </button>
+    </a>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Surname</th>
+                            <th>Username</th>
+                            <th>Email</th>
+                            <th>Number</th>
+                            <th>Experience Year</th>
+                            <th>ServiceId</th>
+                            <th>Info</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Master item in Model)
+                        {
+                            <tr>
+                                <td>@item.Name</td>
+                                <td>@item.Surname</td>
+                                <td>@item.UserName</td>
+                                <td>@item.Email</td>
+                                <td>@item.PhoneNumber</td>
+                                <td>@item.ExperienceYear</td>
+                                <td>@item.ServiceId</td>
+                                <td>
+                                    <a asp-controller="Masters" asp-action="Info" asp-area="Admin" asp-route-id="@item.Id">
+                                        <button class="btn btn-primary">
+                                            Info
+                                        </button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>  
+    </div>
+
+</div>
+<!-- /.container-fluid -->

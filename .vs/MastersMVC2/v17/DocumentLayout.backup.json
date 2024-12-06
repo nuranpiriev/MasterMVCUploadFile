@@ -1,0 +1,772 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\migrations\\20241201184036_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\migrations\\20241201184036_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\dto\\servicedto\\cuservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\dto\\servicedto\\cuservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\services\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\services\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\orders\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\orders\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\masters\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\masters\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\masters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\masters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\masters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\masters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\masters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\masters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\controllers\\masterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\controllers\\masterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\areas\\admin\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\areas\\admin\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\mastersmvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\mastersmvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\models\\mymodelitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\models\\mymodelitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\utilities\\fileuploadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\utilities\\fileuploadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|c:\\users\\mylpt\\source\\repos\\mastersmvc2\\mastersmvc2\\dto\\userdto\\cuuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E68DC1-ABD8-4465-A5A5-B4C2EF17BADA}|MastersMVC2\\MastersMVC2.csproj|solutionrelative:mastersmvc2\\dto\\userdto\\cuuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Migrations\\AppDbContextModelSnapshot.cs*",
+              "RelativeToolTip": "MastersMVC2\\Migrations\\AppDbContextModelSnapshot.cs*",
+              "ViewState": "AgIAABsBAAAAAAAAAAAgwAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:33:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241201184036_initial.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Migrations\\20241201184036_initial.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Migrations\\20241201184036_initial.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Migrations\\20241201184036_initial.cs*",
+              "RelativeToolTip": "MastersMVC2\\Migrations\\20241201184036_initial.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:32:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:26:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Info.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Info.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Info.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Info.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MastersMVC2\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MastersMVC2\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-07T12:09:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\appsettings.json",
+              "RelativeDocumentMoniker": "MastersMVC2\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\appsettings.json",
+              "RelativeToolTip": "MastersMVC2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T11:28:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\DAL\\Contexts\\AppDbContext.cs*",
+              "RelativeToolTip": "MastersMVC2\\DAL\\Contexts\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:49:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\DTO\\ServiceDTO\\CUServiceDTO.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\DTO\\ServiceDTO\\CUServiceDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\DTO\\ServiceDTO\\CUServiceDTO.cs",
+              "RelativeToolTip": "MastersMVC2\\DTO\\ServiceDTO\\CUServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:00:29.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Info.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Info.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Info.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Info.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:10.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:25:01.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:24:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Info.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Info.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Info.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:24:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:24:36.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Edit.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:24:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:24:01.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Create.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Views\\Masters\\Create.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Views\\Masters\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:23:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:42:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAK4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:40:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:36:00.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:40:52.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:43:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:44:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:44:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:43:03.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "MastersMVC2\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "MastersMVC2\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:40:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Program.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Program.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Program.cs",
+              "RelativeToolTip": "MastersMVC2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:47:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwKwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:13:54.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:13:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MastersController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Controllers\\MastersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:13:04.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:12:21.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "MastersMVC2\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:10:46.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "MastersMVC2\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:37:49.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MastersMVC2\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:37:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MastersMVC2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:35:34.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "MastersMVC2\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:36:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MastersMVC2",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\MastersMVC2.csproj",
+              "RelativeDocumentMoniker": "MastersMVC2\\MastersMVC2.csproj",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\MastersMVC2.csproj*",
+              "RelativeToolTip": "MastersMVC2\\MastersMVC2.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T11:31:40.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MastersMVC2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:37:27.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MyModelItems.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Models\\MyModelItems.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Models\\MyModelItems.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Models\\MyModelItems.cs",
+              "RelativeToolTip": "MastersMVC2\\Models\\MyModelItems.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:51:42.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FileUploadExtension.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Utilities\\FileUploadExtension.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\Utilities\\FileUploadExtension.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\Utilities\\FileUploadExtension.cs",
+              "RelativeToolTip": "MastersMVC2\\Utilities\\FileUploadExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:04:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CUUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\DTO\\UserDTO\\CUUserDTO.cs",
+              "RelativeDocumentMoniker": "MastersMVC2\\DTO\\UserDTO\\CUUserDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\MastersMVC2\\MastersMVC2\\DTO\\UserDTO\\CUUserDTO.cs",
+              "RelativeToolTip": "MastersMVC2\\DTO\\UserDTO\\CUUserDTO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:02:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

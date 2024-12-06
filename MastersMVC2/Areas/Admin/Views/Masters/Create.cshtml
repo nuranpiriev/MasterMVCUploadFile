@@ -1,0 +1,43 @@
+﻿@model Master;
+
+<div class="container-fluid">
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" type="text" class="form-control">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Surname" class="form-label">Surname</label>
+            <input asp-for="Surname" type="text" class="form-control">
+            <span asp-validation-for="Surname" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="UserName" class="form-label">Username</label>
+            <input asp-for="UserName" type="text" class="form-control">
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" type="email" class="form-control">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label">Number</label>
+            <input asp-for="PhoneNumber" type="tel" class="form-control">
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ExperienceYear" class="form-label">ExperienceYear</label>
+            <input asp-for="ExperienceYear" type="number" class="form-control">
+            <span asp-validation-for="ExperienceYear" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ServiceId" class="form-label">Service</label>
+            <select class="form-select" asp-for="ServiceId" asp-items="new SelectList (ViewBag.Services, nameof(Service.Id), nameof(Service.Title))">
+            </select>
+            <span asp-validation-for="Service" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
